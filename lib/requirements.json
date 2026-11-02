@@ -1,0 +1,322 @@
+[
+  [
+    1,
+    "Enterprise single sign-on",
+    "Identity",
+    "entry",
+    "Preview the member sign-in and identity-provider handoff.",
+    "Illustrated"
+  ],
+  [
+    2,
+    "Role assignment, modification & removal",
+    "Administration",
+    "admin:access",
+    "Assign multiple roles to a member and inspect the change log."
+  ],
+  [
+    3,
+    "Role- and organization-based authorization",
+    "Identity",
+    "organization",
+    "Compare business-manager and finance-only workspaces. Server enforcement is not implemented.",
+    "Illustrated"
+  ],
+  [
+    4,
+    "Switch between member organizations",
+    "Identity",
+    "organization",
+    "Switch to Pine Hollow ISD and see a separate finance and payroll context."
+  ],
+  [
+    5,
+    "Member service team & contact methods",
+    "Member services",
+    "contacts",
+    "View program contacts, claims support, and contact options."
+  ],
+  [
+    6,
+    "Consolidated home dashboard",
+    "Dashboard",
+    "dashboard",
+    "See tasks, claim activity, coverage, finances, renewal, and resources."
+  ],
+  [
+    7,
+    "TASB-configurable dashboard",
+    "Administration",
+    "admin:dashboard",
+    "Change modules and the task heading, then open the member view."
+  ],
+  [
+    8,
+    "Search portal information",
+    "Dashboard",
+    "search",
+    "Search sample claims, services, documents, and member tasks."
+  ],
+  [
+    9,
+    "Configurable forms, validation & routing",
+    "Administration",
+    "admin:forms",
+    "Add a required field and test it in the claim intake journey."
+  ],
+  [
+    10,
+    "View and download relevant documents",
+    "Documents",
+    "documents",
+    "Preview documents with program, version, and publication metadata."
+  ],
+  [
+    11,
+    "Upload documents to the right record",
+    "Documents",
+    "upload-document",
+    "Associate a sample upload with a program, record, and document type."
+  ],
+  [
+    12,
+    "Workflow and event notifications",
+    "Dashboard",
+    "notifications",
+    "View claim updates and service notifications; acknowledge them."
+  ],
+  [
+    13,
+    "Public versus gated content",
+    "Administration",
+    "admin:content",
+    "Configure a content audience and see the resource label change."
+  ],
+  [
+    14,
+    "Public information / portal transactions",
+    "Identity",
+    "services",
+    "See the separation of the public site and member transactions.",
+    "Illustrated"
+  ],
+  [
+    15,
+    "Persona-based content & training",
+    "Member services",
+    "resources",
+    "View recommendations tied to the sample role and coverage participation."
+  ],
+  [
+    16,
+    "Requests, services & approval workflows",
+    "Member services",
+    "contacts",
+    "Submit requests and review their status; approve them in administration."
+  ],
+  [
+    17,
+    "Pass-through sign-in to Fund applications",
+    "Identity",
+    "services",
+    "Preview connected-service handoffs; live SSO is a production dependency.",
+    "Illustrated"
+  ],
+  [
+    18,
+    "Request access to related applications",
+    "Identity",
+    "access-request",
+    "Request application access and review its approval state."
+  ],
+  [
+    19,
+    "District contact changes",
+    "Member services",
+    "contacts",
+    "Request contact additions, updates, or removal and approve the request."
+  ],
+  [
+    20,
+    "Contribution statements & financial reports",
+    "Billing",
+    "billing",
+    "Find account documents and contribution statements."
+  ],
+  [
+    21,
+    "Consolidated account balances",
+    "Billing",
+    "billing",
+    "Review balance, invoice, due date, and account status."
+  ],
+  [
+    22,
+    "Historical payment activity",
+    "Billing",
+    "billing",
+    "View paid invoices and sample account payment history."
+  ],
+  [
+    23,
+    "Payments or payment information",
+    "Billing",
+    "invoice",
+    "Preview and complete a simulated payment, then see the balance update."
+  ],
+  [
+    24,
+    "New claim submission & receipt",
+    "Claims",
+    "new-claim",
+    "Complete validated intake and receive a sample claim reference."
+  ],
+  [
+    25,
+    "Organization claim list & status",
+    "Claims",
+    "claims",
+    "Search and filter district claims by program."
+  ],
+  [
+    26,
+    "Claim lifecycle progress",
+    "Claims",
+    "claim/WC-2026-0284",
+    "View receipt, review activity, current status, and next action."
+  ],
+  [
+    27,
+    "Recent claims and action-required activity",
+    "Claims",
+    "dashboard",
+    "See recent claim changes and requests for member action."
+  ],
+  [
+    28,
+    "Claim events, correspondence & payments",
+    "Claims",
+    "claim/PROP-2026-0089",
+    "Read claim correspondence and illustrative payment activity."
+  ],
+  [
+    29,
+    "Claim document management",
+    "Claims",
+    "claim/WC-2026-0284",
+    "Add supporting documents and see them with the claim."
+  ],
+  [
+    30,
+    "Workers’ compensation district routing",
+    "Claims",
+    "routing",
+    "Review a campus incident before creating a Fund claim."
+  ],
+  [
+    31,
+    "Membership renewal questionnaire",
+    "Renewals",
+    "renewal",
+    "Complete the questionnaire and review the renewal package."
+  ],
+  [
+    32,
+    "Coverage information requests",
+    "Member services",
+    "coverage-question",
+    "Route a question to the coverage services team."
+  ],
+  [
+    33,
+    "Certificates of coverage",
+    "Documents",
+    "certificate",
+    "Submit a sample certificate request for review."
+  ],
+  [
+    34,
+    "Auto ID cards",
+    "Documents",
+    "auto-card",
+    "Find and download illustrative identification documents."
+  ],
+  [
+    35,
+    "Renewal documents & metadata",
+    "Renewals",
+    "renewal",
+    "View read-only notices, schedules, and instructions with version details."
+  ],
+  [
+    36,
+    "Dynamic renewal checklist",
+    "Renewals",
+    "renewal",
+    "Change the program filter and see context-specific checklist items."
+  ],
+  [
+    37,
+    "Real-time renewal lifecycle status",
+    "Renewals",
+    "renewal",
+    "Review a status timeline. Live policy-system synchronization is not connected.",
+    "Illustrated"
+  ],
+  [
+    38,
+    "Renewal reminders & acknowledgements",
+    "Renewals",
+    "admin:notifications",
+    "Set intervals and channels, preview an email, and acknowledge portal notices."
+  ],
+  [
+    39,
+    "Structured coverage records",
+    "Renewals",
+    "coverage",
+    "Open each program’s participation, dates, and related documents."
+  ],
+  [
+    40,
+    "Contact options & response expectations",
+    "Member services",
+    "contact",
+    "Explore phone, email, chat, and an illustrative response target."
+  ],
+  [
+    41,
+    "Consultation & customized training requests",
+    "Member services",
+    "service-request",
+    "Request loss prevention, special risks support, or district training."
+  ],
+  [
+    42,
+    "Fund training history",
+    "Member services",
+    "training-history",
+    "View completed sessions, dates, duration, and attendance records."
+  ],
+  [
+    43,
+    "Quarterly wage submission status",
+    "Unemployment",
+    "uc",
+    "See the current submission and prior reporting periods."
+  ],
+  [
+    44,
+    "UC correspondence delivered in portal",
+    "Unemployment",
+    "uc-mail",
+    "Read a program notice and access sample correspondence."
+  ],
+  [
+    45,
+    "Wage-reporting period and deadline alerts",
+    "Unemployment",
+    "uc",
+    "See the reporting deadline, period status, and reminder preferences."
+  ]
+]

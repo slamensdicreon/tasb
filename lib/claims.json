@@ -1,0 +1,122 @@
+[
+  {
+    "id": "WC-2026-0284",
+    "title": "Employee injury",
+    "type": "Workers’ compensation",
+    "location": "Cedar Grove Elementary",
+    "date": "Oct 12, 2026",
+    "status": "Action required",
+    "updated": "Oct 14",
+    "icon": "heart"
+  },
+  {
+    "id": "AUTO-2026-0112",
+    "title": "Vehicle collision",
+    "type": "Auto",
+    "location": "Transportation Services",
+    "date": "Oct 8, 2026",
+    "status": "In review",
+    "updated": "Oct 13",
+    "icon": "car"
+  },
+  {
+    "id": "PROP-2026-0089",
+    "title": "Water damage",
+    "type": "Property",
+    "location": "Cedar Grove Middle School",
+    "date": "Sep 28, 2026",
+    "status": "In review",
+    "updated": "Oct 12",
+    "icon": "building"
+  },
+  {
+    "id": "WC-2026-0278",
+    "title": "Employee injury",
+    "type": "Workers’ compensation",
+    "location": "District Administration",
+    "date": "Oct 6, 2026",
+    "status": "In review",
+    "updated": "Oct 10",
+    "icon": "heart"
+  },
+  {
+    "id": "PROP-2026-0082",
+    "title": "Equipment damage",
+    "type": "Property",
+    "location": "Cedar Grove High School",
+    "date": "Sep 22, 2026",
+    "status": "In review",
+    "updated": "Oct 9",
+    "icon": "building"
+  },
+  {
+    "id": "WC-2026-0271",
+    "title": "Employee injury",
+    "type": "Workers’ compensation",
+    "location": "Cedar Grove Middle School",
+    "date": "Sep 25, 2026",
+    "status": "In review",
+    "updated": "Oct 8",
+    "icon": "heart"
+  },
+  {
+    "id": "AUTO-2026-0104",
+    "title": "Windshield damage",
+    "type": "Auto",
+    "location": "Transportation Services",
+    "date": "Sep 23, 2026",
+    "status": "In review",
+    "updated": "Oct 7",
+    "icon": "car"
+  },
+  {
+    "id": "WC-2026-0262",
+    "title": "Employee injury",
+    "type": "Workers’ compensation",
+    "location": "Cedar Grove High School",
+    "date": "Sep 18, 2026",
+    "status": "In review",
+    "updated": "Oct 6",
+    "icon": "heart"
+  },
+  {
+    "id": "LIAB-2026-0031",
+    "title": "General liability",
+    "type": "Liability",
+    "location": "Cedar Grove Elementary",
+    "date": "Sep 15, 2026",
+    "status": "In review",
+    "updated": "Oct 5",
+    "icon": "shield"
+  },
+  {
+    "id": "PROP-2026-0076",
+    "title": "Storm damage",
+    "type": "Property",
+    "location": "Athletics Complex",
+    "date": "Sep 12, 2026",
+    "status": "In review",
+    "updated": "Oct 2",
+    "icon": "building"
+  },
+  {
+    "id": "WC-2026-0254",
+    "title": "Employee injury",
+    "type": "Workers’ compensation",
+    "location": "Transportation Services",
+    "date": "Sep 10, 2026",
+    "status": "In review",
+    "updated": "Sep 30",
+    "icon": "heart"
+  },
+  {
+    "id": "AUTO-2026-0097",
+    "title": "Vehicle damage",
+    "type": "Auto",
+    "location": "Transportation Services",
+    "date": "Sep 7, 2026",
+    "status": "In review",
+    "updated": "Sep 29",
+    "icon": "car"
+  }
+]
